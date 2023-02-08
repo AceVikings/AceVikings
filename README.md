@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Ace. Solidity/Web3 developer turning full stack developer.
+
+![](https://komarev.com/ghpvc/?username=AceVikings&color=green)
 <!--
 **AceVikings/AceVikings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
